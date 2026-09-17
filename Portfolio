@@ -1,0 +1,75 @@
+index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grace Wou | Mechanical Engineering</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h1>Grace Wou</h1>
+        <h2>Mechanical Engineering Student</h2>
+
+        <p>
+            I'm a mechanical engineering student interested in
+            medical devices, product design, and hands-on engineering.
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <h3>Pediatric Prosthetic Arm</h3>
+            <p>
+                Designed and fabricated modular prosthetic arm components
+                using CAD and 3D printing.
+            </p>
+        </div>
+
+        <div class="project">
+            <h3>Capacitor PCB Fixture</h3>
+            <p>
+                Designed and prototyped a fixture for capacitor assembly
+                using CAD and 3D printing.
+            </p>
+        </div>
+
+        <div class="project">
+            <h3>Guitar Pedal</h3>
+            <p>
+                Designing and building a guitar pedal circuit from scratch
+                and CAD modeling the enclosure.
+            </p>
+        </div>
+
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+
+        <h3>Boston Scientific</h3>
+        <p>Mechanical Engineering Intern</p>
+
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: your@email.com</p>
+        <p>
+            <a href="https://www.linkedin.com/">LinkedIn</a>
+        </p>
+    </section>
+
+</body>
+</html>
